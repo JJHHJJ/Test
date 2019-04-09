@@ -9,6 +9,7 @@ public class Post {
 	    private String content;
 	    private Date posttime;
 	    private int pv;
+		private int jjh;
 	    public Post() {
 	    	super();
 	    }
