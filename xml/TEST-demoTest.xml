@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="6" hostname="DESKTOP-TTA7TJ4" name="demoTest" skipped="0" tests="10" time="0.048" timestamp="2019-04-18T03:04:14">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation" />
+    <property name="lib.dir" value="lib" />
+    <property name="sun.java.launcher" value="SUN_STANDARD" />
+    <property name="eclipse.pdebuild.templates" value="D:\Web开发.jsp\eclipse\plugins\org.eclipse.pde.build_3.9.300.v20170515-0912\templates" />
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers" />
+    <property name="run.srcpath" value="src" />
+    <property name="os.name" value="Windows 10" />
+    <property name="ant.file.project" value="C:\Users\ASUS\Desktop\Test\build.xml" />
+    <property name="sun.boot.class.path" value="D:\java\jre\lib\resources.jar;D:\java\jre\lib\rt.jar;D:\java\jre\lib\sunrsasign.jar;D:\java\jre\lib\jsse.jar;D:\java\jre\lib\jce.jar;D:\java\jre\lib\charsets.jar;D:\java\jre\lib\jfr.jar;D:\java\jre\classes" />
+    <property name="sun.desktop" value="windows" />
+    <property name="java.vm.specification.vendor" value="Oracle Corporation" />
+    <property name="ant.home" value="D:\apache-ant-1.10.5" />
+    <property name="java.runtime.version" value="1.8.0_131-b11" />
+    <property name="run.classpath" value="bin" />
+    <property name="test.report" value="report" />
+    <property name="user.name" value="ASUS" />
+    <property name="user.language" value="zh" />
+    <property name="sun.boot.library.path" value="D:\java\jre\bin" />
+    <property name="ant.project.default-target" value="test" />
+    <property name="ant.project.name" value="project" />
+    <property name="java.version" value="1.8.0_131" />
+    <property name="user.timezone" value="" />
+    <property name="sun.arch.data.model" value="64" />
+    <property name="java.endorsed.dirs" value="D:\java\jre\lib\endorsed" />
+    <property name="sun.cpu.isalist" value="amd64" />
+    <property name="sun.jnu.encoding" value="GBK" />
+    <property name="file.encoding.pkg" value="sun.io" />
+    <property name="file.separator" value="\" />
+    <property name="java.specification.name" value="Java Platform API Specification" />
+    <property name="test.xml" value="xml" />
+    <property name="java.class.version" value="52.0" />
+    <property name="user.country" value="CN" />
+    <property name="java.home" value="D:\java\jre" />
+    <property name="java.vm.info" value="mixed mode" />
+    <property name="ant.file" value="C:\Users\ASUS\Desktop\Test\build.xml" />
+    <property name="os.version" value="10.0" />
+    <property name="test.srcpath" value="test" />
+    <property name="path.separator" value=";" />
+    <property name="java.vm.version" value="25.131-b11" />
+    <property name="user.variant" value="" />
+    <property name="ant.library.dir" value="D:\apache-ant-1.10.5\lib" />
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob" />
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle" />
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit" />
+    <property name="user.script" value="" />
+    <property name="eclipse.pdebuild.scripts" value="D:\Web开发.jsp\eclipse\plugins\org.eclipse.pde.build_3.9.300.v20170515-0912\scripts" />
+    <property name="user.home" value="C:\Users\ASUS" />
+    <property name="java.specification.vendor" value="Oracle Corporation" />
+    <property name="java.library.path" value="D:\Web开发.jsp\eclipse;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:/java/jre/bin/server;D:/java/jre/bin;D:/java/jre/lib/amd64;C:\ProgramData\Oracle\Java\javapath;D:\java\jdk\bin;D:\java\jdk\jre\bin;D:\app\ASUS\product\11.2.0\dbhome_1\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Microsoft SQL Server\90\Tools\binn\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Microsoft SQL Server\80\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\D:\My SQL\mysql-5.7.21-winx64\bin;;C:\WINDOWS\System32\OpenSSH\;D:\softwareAndtest\apache-tomcat-9.0.17\bin;D:\My SQL\mysql-5.7.21-winx64\bin;D:\Python27;D:\apache-ant-1.10.5\bin;D:\OpenCV\opencv\build\x64\vc10\bin;D:\OpenCV\opencv\build\x86\vc10\bin;C:\Users\ASUS\AppData\Local\Microsoft\WindowsApps;D:\java\jdk\bin;D:\java\jdk\jre\bin;;D:\Web开发.jsp\eclipse;;.;D:\Web开发.jsp\eclipse\configuration\org.eclipse.osgi\788\0\.cp" />
+    <property name="java.vendor.url" value="http://java.oracle.com/" />
+    <property name="java.vm.vendor" value="Oracle Corporation" />
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
+    <property name="sun.java.command" value="org.eclipse.ant.internal.launching.remote.InternalAntRunner -Dorg.eclipse.ant.core.ANT_PROCESS_ID=1555556653048 -Declipse.connect.port=51273 -Declipse.pdebuild.home=D:\Web开发.jsp\eclipse\plugins\org.eclipse.pde.build_3.9.300.v20170515-0912\. -Declipse.pdebuild.scripts=D:\Web开发.jsp\eclipse\plugins\org.eclipse.pde.build_3.9.300.v20170515-0912\scripts -Declipse.pdebuild.templates=D:\Web开发.jsp\eclipse\plugins\org.eclipse.pde.build_3.9.300.v20170515-0912\templates -Dant.home=D:\apache-ant-1.10.5 -logger org.eclipse.ant.internal.launching.remote.logger.RemoteAntBuildLogger -inputhandler org.eclipse.ant.internal.ui.antsupport.inputhandler.ProxyInputHandler -buildfile C:\Users\ASUS\Desktop\Test\build.xml" />
+    <property name="java.class.path" value="D:\apache-ant-1.10.5\lib\ant-antlr.jar;D:\apache-ant-1.10.5\lib\ant-apache-bcel.jar;D:\apache-ant-1.10.5\lib\ant-apache-bsf.jar;D:\apache-ant-1.10.5\lib\ant-apache-log4j.jar;D:\apache-ant-1.10.5\lib\ant-apache-oro.jar;D:\apache-ant-1.10.5\lib\ant-apache-regexp.jar;D:\apache-ant-1.10.5\lib\ant-apache-resolver.jar;D:\apache-ant-1.10.5\lib\ant-apache-xalan2.jar;D:\apache-ant-1.10.5\lib\ant-commons-logging.jar;D:\apache-ant-1.10.5\lib\ant-commons-net.jar;D:\apache-ant-1.10.5\lib\ant-jai.jar;D:\apache-ant-1.10.5\lib\ant-javamail.jar;D:\apache-ant-1.10.5\lib\ant-jdepend.jar;D:\apache-ant-1.10.5\lib\ant-jmf.jar;D:\apache-ant-1.10.5\lib\ant-jsch.jar;D:\apache-ant-1.10.5\lib\ant-junit.jar;D:\apache-ant-1.10.5\lib\ant-junit4.jar;D:\apache-ant-1.10.5\lib\ant-junitlauncher.jar;D:\apache-ant-1.10.5\lib\ant-launcher.jar;D:\apache-ant-1.10.5\lib\ant-netrexx.jar;D:\apache-ant-1.10.5\lib\ant-swing.jar;D:\apache-ant-1.10.5\lib\ant-testutil.jar;D:\apache-ant-1.10.5\lib\ant-xz.jar;D:\apache-ant-1.10.5\lib\ant.jar;D:\Web开发.jsp\eclipse\configuration\org.eclipse.osgi\93\0\.cp\lib\antdebug.jar;D:\Web开发.jsp\eclipse\configuration\org.eclipse.osgi\93\0\.cp\lib\remote.jar;D:\Web开发.jsp\eclipse\configuration\org.eclipse.osgi\94\0\.cp\lib\remoteAnt.jar;D:\java\jdk\lib\tools.jar;D:\Web开发.jsp\eclipse\plugins\org.eclipse.swt.win32.win32.x86_64_3.106.0.v20170608-0516.jar" />
+    <property name="ant.version" value="Apache Ant(TM) version 1.10.5 compiled on July 10 2018" />
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
+    <property name="java.vm.specification.version" value="1.8" />
+    <property name="ant.file.type.project" value="file" />
+    <property name="sun.cpu.endian" value="little" />
+    <property name="sun.os.patch.level" value="" />
+    <property name="eclipse.pdebuild.home" value="D:\Web开发.jsp\eclipse\plugins\org.eclipse.pde.build_3.9.300.v20170515-0912\." />
+    <property name="java.io.tmpdir" value="C:\Users\ASUS\AppData\Local\Temp\" />
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/" />
+    <property name="os.arch" value="amd64" />
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment" />
+    <property name="java.ext.dirs" value="D:\java\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext" />
+    <property name="user.dir" value="C:\Users\ASUS\Desktop\Test" />
+    <property name="line.separator" value="&#xd;&#xa;" />
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM" />
+    <property name="basedir" value="C:\Users\ASUS\Desktop\Test" />
+    <property name="ant.java.version" value="1.8" />
+    <property name="ant.core.lib" value="D:\apache-ant-1.10.5\lib\ant.jar" />
+    <property name="file.encoding" value="UTF-8" />
+    <property name="java.specification.version" value="1.8" />
+    <property name="ant.project.invoked-targets" value="test" />
+  </properties>
+  <testcase classname="demoTest" name="testSmallString3" time="0.009">
+    <failure message="expected:&lt;[A]&gt; but was:&lt;[a]&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;[A]&gt; but was:&lt;[a]&gt;
+	at demoTest.testSmallString3(Unknown Source)
+	at org.eclipse.ant.internal.launching.remote.EclipseDefaultExecutor.executeTargets(EclipseDefaultExecutor.java:36)
+	at org.eclipse.ant.internal.launching.remote.InternalAntRunner.run(InternalAntRunner.java:460)
+	at org.eclipse.ant.internal.launching.remote.InternalAntRunner.main(InternalAntRunner.java:142)
+</failure>
+  </testcase>
+  <testcase classname="demoTest" name="testSmallString8" time="0.0" />
+  <testcase classname="demoTest" name="testSmallString" time="0.0" />
+  <testcase classname="demoTest" name="testSmallString1" time="0.001">
+    <failure message="expected:&lt;[a]&gt; but was:&lt;[b]&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;[a]&gt; but was:&lt;[b]&gt;
+	at demoTest.testSmallString1(Unknown Source)
+	at org.eclipse.ant.internal.launching.remote.EclipseDefaultExecutor.executeTargets(EclipseDefaultExecutor.java:36)
+	at org.eclipse.ant.internal.launching.remote.InternalAntRunner.run(InternalAntRunner.java:460)
+	at org.eclipse.ant.internal.launching.remote.InternalAntRunner.main(InternalAntRunner.java:142)
+</failure>
+  </testcase>
+  <testcase classname="demoTest" name="testSmallString6" time="0.0">
+    <failure message="expected:&lt;a[A]&gt; but was:&lt;a[a]&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;a[A]&gt; but was:&lt;a[a]&gt;
+	at demoTest.testSmallString6(Unknown Source)
+	at org.eclipse.ant.internal.launching.remote.EclipseDefaultExecutor.executeTargets(EclipseDefaultExecutor.java:36)
+	at org.eclipse.ant.internal.launching.remote.InternalAntRunner.run(InternalAntRunner.java:460)
+	at org.eclipse.ant.internal.launching.remote.InternalAntRunner.main(InternalAntRunner.java:142)
+</failure>
+  </testcase>
+  <testcase classname="demoTest" name="testSmallString7" time="0.0" />
+  <testcase classname="demoTest" name="testSmallString9" time="0.0">
+    <failure message="expected:&lt;ab[C]&gt; but was:&lt;ab[c]&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;ab[C]&gt; but was:&lt;ab[c]&gt;
+	at demoTest.testSmallString9(Unknown Source)
+	at org.eclipse.ant.internal.launching.remote.EclipseDefaultExecutor.executeTargets(EclipseDefaultExecutor.java:36)
+	at org.eclipse.ant.internal.launching.remote.InternalAntRunner.run(InternalAntRunner.java:460)
+	at org.eclipse.ant.internal.launching.remote.InternalAntRunner.main(InternalAntRunner.java:142)
+</failure>
+  </testcase>
+  <testcase classname="demoTest" name="testSmallString2" time="0.001">
+    <failure message="expected:&lt;[A]&gt; but was:&lt;[a]&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;[A]&gt; but was:&lt;[a]&gt;
+	at demoTest.testSmallString2(Unknown Source)
+	at org.eclipse.ant.internal.launching.remote.EclipseDefaultExecutor.executeTargets(EclipseDefaultExecutor.java:36)
+	at org.eclipse.ant.internal.launching.remote.InternalAntRunner.run(InternalAntRunner.java:460)
+	at org.eclipse.ant.internal.launching.remote.InternalAntRunner.main(InternalAntRunner.java:142)
+</failure>
+  </testcase>
+  <testcase classname="demoTest" name="testSmallString5" time="0.0" />
+  <testcase classname="demoTest" name="testSmallString4" time="0.0">
+    <failure message="expected:&lt;[A]a&gt; but was:&lt;[a]a&gt;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: expected:&lt;[A]a&gt; but was:&lt;[a]a&gt;
+	at demoTest.testSmallString4(Unknown Source)
+	at org.eclipse.ant.internal.launching.remote.EclipseDefaultExecutor.executeTargets(EclipseDefaultExecutor.java:36)
+	at org.eclipse.ant.internal.launching.remote.InternalAntRunner.run(InternalAntRunner.java:460)
+	at org.eclipse.ant.internal.launching.remote.InternalAntRunner.main(InternalAntRunner.java:142)
+</failure>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
